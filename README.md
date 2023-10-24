@@ -2,7 +2,9 @@
 A Java RPG game with a unique move system.
 
 Made by John Bianty, Dennis Chan, and Jonathan Vuong
+
 Dennis Chan - @AerolianSol
+
 Jonathan Vuong - @jvuong4
 
 This project is a simple turn based rpg game with a unique twist.
